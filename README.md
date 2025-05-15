@@ -9,11 +9,12 @@ This project involved working with a dataset containing slightly more than 1,000
 **Results:** Review customer demographics and visualize purchases made based on gender, maritial status, and income
 **Quick View:**  
 
+<img src="https://github.com/mher12/bike_sales_dashboard/blob/main/Screenshot%202025-05-14%20202649.png" width="150" height="100">
 
 **Additional Notes:**  
 This project is part of an Excel currriculum created by Alex the Analyst.  
 References can be found below:  
 
-<https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=7?>
+<https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=7?>  
 <https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx>
 
