@@ -1,6 +1,6 @@
 ### Bike Sales Dashboard P6
 
-**Description:** 
+**Description:**  
 This was a guided project in which showcases my knowledge and ability of using the following methods within Excel:  
 Data cleaning via removing duplicates, enriching certain data for better understanding, statistical methods, utilizing and nesting "if" function, creating Pivot tables, creating dashboard, and adding Slicers. 
 
